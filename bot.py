@@ -2,7 +2,8 @@ import telebot
 import time
 
 # --- APKA TOKEN ---
-TOKEN = 8506734114:AAHworAWrvu-aUVnso0qVsva91bn14y9ohw
+TOKEN =
+"8506734114:AAHworAWrVu-aUVnso0qVsva91bn14y9ohw"
 bot = telebot.TeleBot(TOKEN)
 
 # ☣️ ULTRA MAX CRASH BUG (Dunya ka sab se heavy) ☣️
